@@ -1,13 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 2 - Numerical Representation
- Course:      CIS 2252
- Author:      <mohammed tanvvir>
- Date:        < 6/ 18/23 >
- Description: This program ....
-
- ==========================================================
-*/
 #include <iostream>
 #include <string>
 #include <cmath>
